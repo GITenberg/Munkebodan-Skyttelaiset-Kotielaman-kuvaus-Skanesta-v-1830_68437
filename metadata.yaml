@@ -1,0 +1,30 @@
+_repo: Munkebodan-Skyttelaiset-Kotielaman-kuvaus-Skanesta-v-1830_68437
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Malling, Mathilda
+    aliases:
+    - Kleve, Stella
+    - Malling, Ingrid Mathilda Kruse
+    birthdate: 1864
+    deathdate: 1942
+    gutenberg_agent_id: '26117'
+    url: http://www.gutenberg.org/2009/agents/26117
+    wikipedia: http://sv.wikipedia.org/wiki/Mathilda_Malling
+description: ''
+gutenberg_issued: '2022-07-01'
+identifiers:
+  gutenberg: '68437'
+language: fi
+pgterms:marc905: 20220529080222malling
+pgterms:marc906: '1899'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: Finland :Pohjalainen,1899.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Munkebodan Skytteläiset: Kotielämän kuvaus Skånesta v. 1830'
+url: http://www.gutenberg.org/ebooks/68437
